@@ -1,4 +1,4 @@
-package com.rao.demo.bio.simple;
+package com.rao.demo.bio.pool;
 
 import org.junit.Test;
 
@@ -9,9 +9,9 @@ import java.net.Socket;
 
 /**
  * @author honey.rao
- * @since 2020/9/23 17:53
+ * @since 2020/9/24 17:04
  */
-public class SimpleClient {
+public class PoolClient {
 
     @Test
     public void run(){
